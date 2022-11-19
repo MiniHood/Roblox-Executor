@@ -1,0 +1,16 @@
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\obj\Debug\RobloxExecutorCSharp.csproj.AssemblyReference.cache
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\obj\Debug\RobloxExecutorCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\obj\Debug\RobloxExecutorCSharp.MainPanel.resources
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\obj\Debug\RobloxExecutorCSharp.Properties.Resources.resources
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\obj\Debug\RobloxExecutorCSharp.csproj.GenerateResource.cache
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\obj\Debug\RobloxExecutorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\bin\Debug\RobloxExecutorCSharp.exe.config
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\bin\Debug\RobloxExecutorCSharp.exe
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\bin\Debug\RobloxExecutorCSharp.pdb
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\bin\Debug\Siticone.UI.dll
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\obj\Debug\RobloxExecutorCSharp.csproj.CopyComplete
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\obj\Debug\RobloxExecutorCSharp.exe
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\obj\Debug\RobloxExecutorCSharp.pdb
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\bin\Debug\EasyExploits.dll
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\bin\Debug\WRD.dll
+C:\Users\ABE\source\repos\RobloxExecutorCSharp\RobloxExecutorCSharp\bin\Debug\Newtonsoft.Json.dll
