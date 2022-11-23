@@ -54,6 +54,7 @@ namespace RobloxExecutorCSharp
             // Rounds form corners
             this.FormBorderStyle = FormBorderStyle.None;
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
+            new Resource.ResourceInstall().SetResources(); // Setting resources
             new Resource.ResourceInstall().LoadResources(); // Making sure all resources are in the directory.
         }
 
